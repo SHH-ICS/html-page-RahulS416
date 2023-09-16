@@ -8,8 +8,8 @@ body {
 }
 
 h1 {
-  background-color: rgb(14, 123, 71);
-  color: hsl(342deg, 67%, 57%);
+  background-color: rgb(14 123 71);
+  color: hsl(342deg 67% 57%);
   padding: 40px;
   text-align: center;
 }
@@ -31,15 +31,15 @@ table {
 }
 
 th {
-    height: 2rem;
-    background: rgb(25, 0, 255);
-    border: 1px solid white;
-    text-align: left;
+  height: 2rem;
+  background: rgb(25 0 255);
+  border: 1px solid white;
+  text-align: left;
 }
 
 td {
-    height: 2rem;
-    background: lightcoral;
-    border: 1px solid black;
-    text-align: center;
+  height: 2rem;
+  background: lightcoral;
+  border: 1px solid black;
+  text-align: center;
 }
